@@ -34,7 +34,7 @@ func GetAllCarsWithSameOwner(w http.ResponseWriter, r *http.Request) {
 	name := param["name"]
 
 	ls := cars.CarsWithOneOwner(dataStore, name)
-
+	WriteFile(ls)
 	data, err := json.Marshal(ls)
 	if err != nil {
 		log.Println(err)
@@ -49,6 +49,7 @@ func GetAllCarsWithSameManufacturer(w http.ResponseWriter, r *http.Request) {
 	manufacturer := param["manufactor"]
 
 	ls := cars.CarWithSameManufacturer(dataStore, manufacturer)
+	WriteFile(ls)
 
 	data, err := json.Marshal(ls)
 	if err != nil {
@@ -64,7 +65,8 @@ func GetCarsByCity(w http.ResponseWriter, r *http.Request) {
 	city := param["city"]
 
 	ls := cars.SearchByCity(dataStore, city)
-
+	WriteFile(ls)
+	
 	data, err := json.Marshal(ls)
 	if err != nil {
 		log.Println(err)
