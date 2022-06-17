@@ -10,6 +10,7 @@ import (
 
 func main() {
 
+	
 	router := mux.NewRouter().StrictSlash(false)
 	router.Use(service.SetContentTypeMiddleware)
 	http.Handle("/", router)
