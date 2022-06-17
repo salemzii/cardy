@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "first_name": "Ellette",
+        "last_name": "Hartigan",
+        "email": "ehartigan0@newyorker.com",
+        "gender": "Female",
+        "address": "3395 Mandrake Crossing, Krzczonow",
+        "car_manufactur": "Volvo",
+        "car_model": "XC90",
+        "car_model_year": 2009
+    },
+    {
+        "id": 2,
+        "first_name": "Dorri",
+        "last_name": "Colls",
+        "email": "dcolls1@instagram.com",
+        "gender": "Female",
+        "address": "65 Chinook Point, Prislonica",
+        "car_manufactur": "Mazda",
+        "car_model": "CX-7",
+        "car_model_year": 2012
+    },
+    {
+        "id": 3,
+        "first_name": "Salli",
+        "last_name": "Penddreth",
+        "email": "spenddreth2@about.me",
+        "gender": "Female",
+        "address": "4973 Green Lane, Xilaiqiao",
+        "car_manufactur": "Lexus",
+        "car_model": "GS",
+        "car_model_year": 2005
+    },
+    {
+        "id": 4,
+        "first_name": "Lonnie",
+        "last_name": "Lanfranconi",
+        "email": "llanfranconi3@artisteer.com",
+        "gender": "Male",
+        "address": "1636 Mendota Court, Krzczonow",
+        "car_manufactur": "Volvo",
+        "car_model": "XC60",
+        "car_model_year": 2020
+    },
+    {
+        "id": 5,
+        "first_name": "Kathie",
+        "last_name": "Osbaldstone",
+        "email": "kosbaldstone4@nymag.com",
+        "gender": "Female",
+        "address": "76450 Lakeland Pass, Donja Brela",
+        "car_manufactur": "Saturn",
+        "car_model": "Outlook",
+        "car_model_year": 2007
+    },
+    {
+        "id": 6,
+        "first_name": "Evita",
+        "last_name": "Martinec",
+        "email": "emartinec5@theatlantic.com",
+        "gender": "Female",
+        "address": "283 Aberg Plaza, Jiangdianzi",
+        "car_manufactur": "Mazda",
+        "car_model": "626",
+        "car_model_year": 1990
+    },
+    {
+        "id": 7,
+        "first_name": "Marijn",
+        "last_name": "Hauxby",
+        "email": "mhauxby6@comsenz.com",
+        "gender": "Male",
+        "address": "1221 Golf Hill, Jiangdianzi",
+        "car_manufactur": "Buick",
+        "car_model": "Riviera",
+        "car_model_year": 1989
+    },
+    {
+        "id": 8,
+        "first_name": "Dulcia",
+        "last_name": "Gaskamp",
+        "email": "dgaskamp7@w3.org",
+        "gender": "Female",
+        "address": "02060 Gerald Junction, San Jose",
+        "car_manufactur": "Mercedes-Benz",
+        "car_model": "SL-Class",
+        "car_model_year": 2007
+    },
+    {
+        "id": 9,
+        "first_name": "Hildagarde",
+        "last_name": "Yerlett",
+        "email": "hyerlett8@thetimes.co.uk",
+        "gender": "Female",
+        "address": "647 Ruskin Way, Rufino",
+        "car_manufactur": "Mercedes-Benz",
+        "car_model": "G55 AMG",
+        "car_model_year": 2006
+    },
+    {
+        "id": 10,
+        "first_name": "Harlan",
+        "last_name": "Volant",
+        "email": "hvolant9@ovh.net",
+        "gender": "Male",
+        "address": "012 Raven Lane, Choya",
+        "car_manufactur": "Ford",
+        "car_model": "LTD Crown Victoria",
+        "car_model_year": 1988
+    }
+]
